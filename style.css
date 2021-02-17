@@ -19,6 +19,9 @@ header {
     height: 40px;
     background-color: white;
 }
+h1 {
+    font-size: 2rem;
+}
 
 section {
     padding: 20px;

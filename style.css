@@ -10,11 +10,16 @@
 
 }
 
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 40px;
+}
+
 section {
     padding: 20px;
-    margin: -10px;
+    margin: -9px;
     height: 600px;
-    background-image: url("imagens/junior-reis-40_gFiMaavo-unsplash\ \(2\).jpg") ;
+    background-image: url("imagens/Como\ Fazer\ o\ Churrasco\ Perfeito.jpg") ;
     background-size:cover;
     overflow: hidden;
 

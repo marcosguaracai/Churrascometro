@@ -2,9 +2,22 @@
     font-family: Arial, Helvetica, sans-serif;
     max-width: 300px;
     margin: auto;
-    background-color: aqua;
+    background-color: #FFFFFFBB;
     padding: 20px;
     border-radius: 10px;
+    float: right;
+
+
+}
+
+section {
+    padding: 20px;
+    margin: -10px;
+    height: 600px;
+    background-image: url("imagens/junior-reis-40_gFiMaavo-unsplash\ \(2\).jpg") ;
+    background-size:cover;
+    overflow: hidden;
+
 
 }
 
@@ -14,7 +27,7 @@ h1 {
 
 button {
     border-radius: 5px;
-    background-color: yellow;
+    background-color: white;
     
 
 }
